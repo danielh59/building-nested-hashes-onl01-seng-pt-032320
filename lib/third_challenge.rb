@@ -14,11 +14,11 @@ def third_challenge
         :age => "15",
         :status => "alive"
         },
-      :hero_friends => [ Benvolio = {
-        :name => 
-        :age => 
-        :attitude => 
-      }
+      :hero_friends => [ {
+        :name => "Benvolio"
+        :age => "17"
+        :attitude => "worried" 
+      }, 
         ]
    }, 
    :capulet => {
