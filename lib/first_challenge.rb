@@ -1,7 +1,10 @@
 def first_challenge
    epic_tragedy = {
      :montague => {
-       :patriach
+       :patriach => {
+        :name => "Lord Montague", :age => "53"},
+        
+       }
      }
      
    }
